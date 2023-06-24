@@ -1,5 +1,5 @@
 # harmony-heaven-hotel
-The Hotel Website is a responsive and visually appealing website designed to provide information about a hotel and its amenities. It aims to create an immersive user experience by incorporating modern web design techniques.
+This repository represents a responsive and visually appealing website designed to provide information about a hotel and its amenities. It aims to create an immersive user experience by incorporating modern web design techniques.
 
 I used the following technologies in order to create the website:
 HTML for creating the structure and content of web pages.
