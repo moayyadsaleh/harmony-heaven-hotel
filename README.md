@@ -10,7 +10,7 @@ Added interactivity and dynamic behavior to the website through using JavaScript
 
 Used best practices in web design, including code organization, performance optimization, and user experience considerations.
 
-
+Live Demo: https://moayyadsaleh.github.io/harmony-heaven-hotel/
 
 
 ![harmony heaven](https://github.com/moayyadsaleh/harmony-heaven-hotel/assets/137034202/4e85af39-7f6c-4e06-83c6-5179993ad8a4)
